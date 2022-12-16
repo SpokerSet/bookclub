@@ -14,7 +14,7 @@ class OurSignup extends StatelessWidget {
               children: <Widget>[
                 Row(
                   mainAxisAlignment: MainAxisAlignment.start,
-                  children: <Widget> [
+                  children: const <Widget> [
                     BackButton(),
                   ],
                 ),
